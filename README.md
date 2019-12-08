@@ -21,11 +21,11 @@ You may visit the deployed version [here](https://flixter-frederic-hodges.heroku
   
 1. **Clone repo:**
        
-        git@github.com:derfman9303/nomster.git
+        git@github.com:derfman9303/flixter.git
         
-2. **On the command line, navigate to the Nomster directory**
+2. **On the command line, navigate to the Flixter directory**
         
-        cd nomster
+        cd flixter
 
 3. **Create the database**
         
