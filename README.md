@@ -4,10 +4,10 @@
 
 A Yelp clone that integrates with the Google Maps API and includes features like user comments, star ratings, image uploading, and user authentication.
 
-You may visit the deployed version [here](https://nomster-frederic-hodges.herokuapp.com/).
+You may visit the deployed version [here](https://flixter-frederic-hodges.herokuapp.com/).
 
-![Nomster app screenshot](app/assets/images/nomster.PNG "Nomster app screenshot")
-![Nomster app screenshot](app/assets/images/nomster2.PNG "Nomster app screenshot")
+![Flixter app screenshot](app/assets/images/flixter.PNG "Flixter app screenshot")
+![Flixter app screenshot](app/assets/images/flixter2.PNG "Flixter app screenshot")
 ***
 # Setup
 
