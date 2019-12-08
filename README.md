@@ -2,7 +2,7 @@
 
 ## What this app is:
 
-A Yelp clone that integrates with the Google Maps API and includes features like user comments, star ratings, image uploading, and user authentication.
+A two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships.
 
 You may visit the deployed version [here](https://flixter-frederic-hodges.herokuapp.com/).
 
