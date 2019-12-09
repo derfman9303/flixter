@@ -65,3 +65,5 @@ If you would like, you may push your app up to Heroku by running the following c
  ***
 # Notes
 This app integrates with a third party API called Stripe to process creit card payments. for more information visit [their website.](https://stripe.com/)
+
+If you only use this app locally, images can be saved to the database using the "carrierwave" gem. However, if you push your app to Heroku, you will run into errors using carrierwave to store images in the database. In this case, you will need to specify an AWS bucket for the "fog-aws" gem to use. For more information on how these gems work, visit their official documentation: [carrierwave](https://github.com/carrierwaveuploader/carrierwave) - [fog-aws](https://github.com/fog/fog-aws)
