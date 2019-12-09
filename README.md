@@ -44,6 +44,9 @@ You may visit the deployed version [here](https://flixter-frederic-hodges.heroku
 
 You may now visit your app at http://localhost:3030
 
+Validation is required for most functions of this app, so you'll neeed to create an account. You may do this by clicking "Sign up" in the navigation bar.
+
+To create a course, click "Teach a course" in the footer. You will be directed to the course creation form. Once the course is created, you may add sections, and lessons to each section. Don't worry if you make a mistake, the app allows you to change the order of sections and lessons easily using a drag-and-drop method. The order you choose is updated in real-time to the database using AJAX requests. 
 
 ***
 # Deployment
